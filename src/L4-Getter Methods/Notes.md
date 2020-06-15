@@ -30,6 +30,8 @@ If parameters are an introduction, a doorway from the `main` class to the object
 
 The methods we've seen in both the `String` class and `Math` class are return methods. They send data back to the main class, which can be assigned to variables, output for display or even used for further calculations.
 
+Return statements can return values or the result of a computation. 
+
 ### .getWidth() Method
 
 Add the `getWidth` method to the `Rect` class, which returns the `width` attribute.
