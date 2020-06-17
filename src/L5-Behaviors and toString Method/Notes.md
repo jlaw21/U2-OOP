@@ -30,6 +30,21 @@ Add another method to the [**Rect**][rect] class for calculating the perimeter o
 
 Next, let's call these two methods in the [**Sandbox**][sandbox] 
 
+### Multiple Parameters
+
+Methods are also capable of having more than one parameter. We could add a behavior to this class which accepts as parameters both `lengthInput` and `widthInput` and then assigns those to the value of the `length` and `width` attributes.
+
+Let's add this to [**Rect**][rect]. 
+
+```java
+public void set(double lengthInput, double widthInput){
+    length = lengthInput;
+    width = widthInput;
+}
+```
+
+Notice the parameters are separated by a comma and both have declared data-types. When you are first designing a class, you never know which methods you will need and which you won't, so its always a good idea to add as many of these helpful behavior methods as you can. It is also handy if someone else uses this class in a different way than you intended. 
+
 ### .toString() Method
 
 Add this line of code to the [**Sandbox**][sandbox]. 
@@ -57,7 +72,6 @@ public String toString(){
 ```
 
 Let's again look at this implementation in the [**Sandbox**][sandbox]
-
 
 [sandbox]: ../L5.java
 [rect]: ../Rect.java

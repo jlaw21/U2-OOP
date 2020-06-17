@@ -1,6 +1,6 @@
 # Unit 2 - Object Oriented Programming
 
-## [**L1 Sandbox**][sandbox]
+## [**L6 Sandbox**][sandbox]
 
 ## Constructors
 
@@ -9,4 +9,6 @@
 
 
 
-[sandbox]: ../L1.java
+
+[sandbox]: ../L6.java
+[rect]: ../Rect.java
