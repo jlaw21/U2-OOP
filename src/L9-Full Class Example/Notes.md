@@ -26,7 +26,7 @@ Any other methods we want to write?
 
 * <write answers here>
 
-With the class sketched out, we can no code it in. **ALWAYS** plan before you type. 
+With the class sketched out, we can now code it in. **ALWAYS** plan before you type. 
 
 
 [sandbox]: ../L9.java
