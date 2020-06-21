@@ -1,6 +1,6 @@
 # Unit 2 - Object Oriented Programming
 
-## [**L8 Sandbox**][sandbox]
+## [**L9 Sandbox**][sandbox]
 
 ## Full Class Example
 
@@ -29,5 +29,4 @@ Any other methods we want to write?
 With the class sketched out, we can no code it in. **ALWAYS** plan before you type. 
 
 
-
-[sandbox]: ../L8.java
+[sandbox]: ../L9.java
